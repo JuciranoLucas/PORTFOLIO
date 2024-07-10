@@ -1,4 +1,4 @@
-<h1 align="center"> Portfolio </h1>
+<h1 align="center"> PORTFOLIO </h1>
 
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias: 
